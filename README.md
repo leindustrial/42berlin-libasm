@@ -1,2 +1,2 @@
 # 42berlin-libasm
-Learning ams
+Learning the assembly language
